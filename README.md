@@ -1,1 +1,14 @@
+
+* [Copying and Pasting Images Between Linux And Wine](Copying%20and%20Pasting%20Images%20Between%20Linux%20And%20Wine.md)
+
+
+
+
+
+
+
+
+
+
+
 The scripts, actions and any wine settings provided in this repository are intended for use with MP3Tag via Wine on Linux. While every effort has been made to ensure their functionality, I cannot guarantee that they will work as intended in every environment or use case. By using these scripts and actions, you acknowledge that you do so at your own risk. The author is not responsible for any data loss, corruption, or other issues that may arise from their use.
